@@ -9,10 +9,6 @@
   <img alt="School Stuff" src="School-Stuff-banner/art/header-light.png">
 </picture>
 
-<p align="center">
-  <img src="assets/demo.png" width="800">
-</p>
-
 ## About
 
 A possibly soon, lot of stuff for school. Rather not, but possibly.
