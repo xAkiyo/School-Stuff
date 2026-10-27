@@ -4,6 +4,11 @@
   A simple repo made for school n' learning. Free to use. :D
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="School-Stuff-banner/art/header-dark.png">
+  <img alt="School Stuff" src="School-Stuff-banner/art/header-light.png">
+</picture>
+
 <p align="center">
   <img src="assets/demo.png" width="800">
 </p>
